@@ -13,8 +13,8 @@
 
 Rules:
 
-•	You will have 60 seconds to guess the right word to continue to the next round.
+•	You will have 60 seconds to guess the word correctly and continue to the next round.
 
 •	Make as many guesses as you can in the time frame to increase the possibility of guessing the correct word.
 
-•	Guessing other words stored in my dictionary will also give you points.
+•	Guessing other words stored in the .txt file will also give you points.
