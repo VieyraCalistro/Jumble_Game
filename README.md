@@ -17,4 +17,4 @@ Rules:
 
 •	Make as many guesses as you can in the time frame to increase the possibility of guessing the correct word.
 
-•	Guessing other words stored in the .txt file will also give you points.
+•	Guessing other words stored in the .txt file will also give you points, as long as guessed word is at least three characters in length.
